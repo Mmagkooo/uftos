@@ -54,7 +54,7 @@
   "dependencies": {
     "@internationalized/date": "^3.5.5",
     "@oazapfts/runtime": "^1.0.3",
-    "bits-ui": "^0.21.13",
+    "bits-ui": "^0.21.15",
     "clsx": "^2.1.1",
     "cmdk-sv": "^0.0.18",
     "formsnap": "^1.0.1",
